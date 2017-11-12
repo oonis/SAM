@@ -1,0 +1,116 @@
+support.inlogic.InLogic             - found a total of 33 references to .tif images in dom object                                                     	- Wed Jun 10 15:06:01 EDT 2015
+support.inlogic.InLogic             - 	1 of type F0Fm,                                                                                                	- Wed Jun 10 15:06:01 EDT 2015
+support.inlogic.InLogic             - 	16 of type Fmpp, and                                                                                           	- Wed Jun 10 15:06:01 EDT 2015
+support.inlogic.InLogic             - 	16 of type FsFmp                                                                                               	- Wed Jun 10 15:06:01 EDT 2015
+support.inlogic.InLogic             - retrieved a total of 32real environment factors from dom object                                                 	- Wed Jun 10 15:06:01 EDT 2015
+support.inlogic.InLogic             - 	0 pertaining to humidity,                                                                                      	- Wed Jun 10 15:06:01 EDT 2015
+support.inlogic.InLogic             - 	32 pertaining to light intensity, and                                                                          	- Wed Jun 10 15:06:01 EDT 2015
+support.inlogic.InLogic             - 	0 pertaining to temperature                                                                                    	- Wed Jun 10 15:06:01 EDT 2015
+support.inlogic.InLogic             - failed to retrieve any environment factors from dom object                                                      	- Wed Jun 10 15:06:01 EDT 2015
+support.Support                     - failed to retrieve any history from xml document                                                                	- Wed Jun 10 15:06:01 EDT 2015
+LOGGER ::: backed up log contents to the file "log"
+support.inlogic.InLogic             - found a total of 33 references to .tif images in dom object                                                     	- Wed Jun 10 15:49:27 EDT 2015
+support.inlogic.InLogic             - 	1 of type F0Fm,                                                                                                	- Wed Jun 10 15:49:27 EDT 2015
+support.inlogic.InLogic             - 	16 of type Fmpp, and                                                                                           	- Wed Jun 10 15:49:27 EDT 2015
+support.inlogic.InLogic             - 	16 of type FsFmp                                                                                               	- Wed Jun 10 15:49:27 EDT 2015
+support.inlogic.InLogic             - retrieved a total of 32real environment factors from dom object                                                 	- Wed Jun 10 15:49:27 EDT 2015
+support.inlogic.InLogic             - 	0 pertaining to humidity,                                                                                      	- Wed Jun 10 15:49:27 EDT 2015
+support.inlogic.InLogic             - 	32 pertaining to light intensity, and                                                                          	- Wed Jun 10 15:49:27 EDT 2015
+support.inlogic.InLogic             - 	0 pertaining to temperature                                                                                    	- Wed Jun 10 15:49:27 EDT 2015
+support.inlogic.InLogic             - failed to retrieve any environment factors from dom object                                                      	- Wed Jun 10 15:49:27 EDT 2015
+support.Support                     - failed to retrieve any history from xml document                                                                	- Wed Jun 10 15:49:27 EDT 2015
+LOGGER ::: backed up log contents to the file "log"support.inlogic.InLogic             - successfully parsed 0 calculations from the analysis node                                                       	- Wed Jun 10 15:49:27 EDT 2015
+support.CalculationRules            - found the following calculation invalid:                                                                        	- Wed Jun 10 15:49:50 EDT 2015
+support.CalculationRules            - 	qE IMGS_17_cam_0.tif_Fs.tif, IMGS_13_cam_0.tif_Fmp.tif                                                         	- Wed Jun 10 15:49:50 EDT 2015
+support.CalculationRules            - 	first input should be of type Fmp for a valid qE calculation                                                   	- Wed Jun 10 15:49:50 EDT 2015
+support.inlogic.InLogic             - marked the new calculation as being invalid                                                                     	- Wed Jun 10 15:49:50 EDT 2015
+support.Support                     - added calculation: qE IMGS_17_cam_0.tif_Fs.tif, IMGS_13_cam_0.tif_Fmp.tif                                       	- Wed Jun 10 15:49:50 EDT 2015
+support.Support                     - removed calculation : qE IMGS_17_cam_0.tif_Fs.tif, IMGS_13_cam_0.tif_Fmp.tif                                    	- Wed Jun 10 15:49:55 EDT 2015
+support.Support                     - added calculation: Phi2 IMGS_3_cam_0.tif_Fs.tif, IMGS_3_cam_0.tif_Fmp.tif                                       	- Wed Jun 10 15:49:59 EDT 2015
+support.Support                     - added calculation: Phi2 IMGS_5_cam_0.tif_Fs.tif, IMGS_5_cam_0.tif_Fmp.tif                                       	- Wed Jun 10 15:49:59 EDT 2015
+support.Support                     - added calculation: Phi2 IMGS_7_cam_0.tif_Fs.tif, IMGS_7_cam_0.tif_Fmp.tif                                       	- Wed Jun 10 15:49:59 EDT 2015
+LOGGER ::: backed up log contents to the file "log"support.Support                     - added calculation: Phi2 IMGS_9_cam_0.tif_Fs.tif, IMGS_9_cam_0.tif_Fmp.tif                                       	- Wed Jun 10 15:49:59 EDT 2015
+support.Support                     - added calculation: Phi2 IMGS_11_cam_0.tif_Fs.tif, IMGS_11_cam_0.tif_Fmp.tif                                     	- Wed Jun 10 15:49:59 EDT 2015
+support.Support                     - added calculation: Phi2 IMGS_13_cam_0.tif_Fs.tif, IMGS_13_cam_0.tif_Fmp.tif                                     	- Wed Jun 10 15:49:59 EDT 2015
+support.Support                     - added calculation: Phi2 IMGS_15_cam_0.tif_Fs.tif, IMGS_15_cam_0.tif_Fmp.tif                                     	- Wed Jun 10 15:49:59 EDT 2015
+support.Support                     - added calculation: Phi2 IMGS_17_cam_0.tif_Fs.tif, IMGS_17_cam_0.tif_Fmp.tif                                     	- Wed Jun 10 15:49:59 EDT 2015
+support.Support                     - added calculation: Phi2 IMGS_19_cam_0.tif_Fs.tif, IMGS_19_cam_0.tif_Fmp.tif                                     	- Wed Jun 10 15:49:59 EDT 2015
+support.Support                     - added calculation: Phi2 IMGS_21_cam_0.tif_Fs.tif, IMGS_21_cam_0.tif_Fmp.tif                                     	- Wed Jun 10 15:49:59 EDT 2015
+support.Support                     - added calculation: Phi2 IMGS_23_cam_0.tif_Fs.tif, IMGS_23_cam_0.tif_Fmp.tif                                     	- Wed Jun 10 15:49:59 EDT 2015
+support.Support                     - added calculation: Phi2 IMGS_25_cam_0.tif_Fs.tif, IMGS_25_cam_0.tif_Fmp.tif                                     	- Wed Jun 10 15:49:59 EDT 2015
+support.Support                     - added calculation: Phi2 IMGS_27_cam_0.tif_Fs.tif, IMGS_27_cam_0.tif_Fmp.tif                                     	- Wed Jun 10 15:49:59 EDT 2015
+LOGGER ::: backed up log contents to the file "log"support.Support                     - added calculation: Phi2 IMGS_29_cam_0.tif_Fs.tif, IMGS_29_cam_0.tif_Fmp.tif                                     	- Wed Jun 10 15:49:59 EDT 2015
+support.Support                     - added calculation: Phi2 IMGS_31_cam_0.tif_Fs.tif, IMGS_31_cam_0.tif_Fmp.tif                                     	- Wed Jun 10 15:49:59 EDT 2015
+support.Support                     - added calculation: Phi2 IMGS_33_cam_0.tif_Fs.tif, IMGS_33_cam_0.tif_Fmp.tif                                     	- Wed Jun 10 15:49:59 EDT 2015
+support.CalculationRules            - found the following calculation invalid:                                                                        	- Wed Jun 10 15:53:22 EDT 2015
+support.CalculationRules            - 	qE IMGS_11_cam_0.tif_Fs.tif, IMGS_14_cam_0.tif_Fmm.tif                                                         	- Wed Jun 10 15:53:22 EDT 2015
+support.CalculationRules            - 	first input should be of type Fmp for a valid qE calculation                                                   	- Wed Jun 10 15:53:22 EDT 2015
+support.inlogic.InLogic             - marked the new calculation as being invalid                                                                     	- Wed Jun 10 15:53:22 EDT 2015
+support.Support                     - added calculation: qE IMGS_11_cam_0.tif_Fs.tif, IMGS_14_cam_0.tif_Fmm.tif                                       	- Wed Jun 10 15:53:22 EDT 2015
+support.Support                     - removed calculation : qE IMGS_11_cam_0.tif_Fs.tif, IMGS_14_cam_0.tif_Fmm.tif                                    	- Wed Jun 10 15:53:33 EDT 2015
+support.Support                     - Exception while populating measurement nodes...                                                                 	- Wed Jun 10 15:54:23 EDT 2015
+LOGGER ::: backed up log contents to the file "log"
+support.inlogic.InLogic             - found a total of 33 references to .tif images in dom object                                                     	- Wed Jun 10 15:58:27 EDT 2015
+support.inlogic.InLogic             - 	1 of type F0Fm,                                                                                                	- Wed Jun 10 15:58:27 EDT 2015
+support.inlogic.InLogic             - 	16 of type Fmpp, and                                                                                           	- Wed Jun 10 15:58:27 EDT 2015
+support.inlogic.InLogic             - 	16 of type FsFmp                                                                                               	- Wed Jun 10 15:58:27 EDT 2015
+support.inlogic.InLogic             - retrieved a total of 32real environment factors from dom object                                                 	- Wed Jun 10 15:58:27 EDT 2015
+support.inlogic.InLogic             - 	0 pertaining to humidity,                                                                                      	- Wed Jun 10 15:58:27 EDT 2015
+support.inlogic.InLogic             - 	32 pertaining to light intensity, and                                                                          	- Wed Jun 10 15:58:27 EDT 2015
+support.inlogic.InLogic             - 	0 pertaining to temperature                                                                                    	- Wed Jun 10 15:58:27 EDT 2015
+support.inlogic.InLogic             - failed to retrieve any environment factors from dom object                                                      	- Wed Jun 10 15:58:27 EDT 2015
+support.Support                     - failed to retrieve any history from xml document                                                                	- Wed Jun 10 15:58:27 EDT 2015
+LOGGER ::: backed up log contents to the file "log"support.inlogic.InLogic             - successfully parsed 0 calculations from the analysis node                                                       	- Wed Jun 10 15:58:27 EDT 2015
+support.Support                     - added calculation: Phi2 IMGS_3_cam_0.tif_Fs.tif, IMGS_3_cam_0.tif_Fmp.tif                                       	- Wed Jun 10 15:58:31 EDT 2015
+support.Support                     - added calculation: Phi2 IMGS_5_cam_0.tif_Fs.tif, IMGS_5_cam_0.tif_Fmp.tif                                       	- Wed Jun 10 15:58:31 EDT 2015
+support.Support                     - added calculation: Phi2 IMGS_7_cam_0.tif_Fs.tif, IMGS_7_cam_0.tif_Fmp.tif                                       	- Wed Jun 10 15:58:31 EDT 2015
+support.Support                     - added calculation: Phi2 IMGS_9_cam_0.tif_Fs.tif, IMGS_9_cam_0.tif_Fmp.tif                                       	- Wed Jun 10 15:58:31 EDT 2015
+support.Support                     - added calculation: Phi2 IMGS_11_cam_0.tif_Fs.tif, IMGS_11_cam_0.tif_Fmp.tif                                     	- Wed Jun 10 15:58:31 EDT 2015
+support.Support                     - added calculation: Phi2 IMGS_13_cam_0.tif_Fs.tif, IMGS_13_cam_0.tif_Fmp.tif                                     	- Wed Jun 10 15:58:31 EDT 2015
+support.Support                     - added calculation: Phi2 IMGS_15_cam_0.tif_Fs.tif, IMGS_15_cam_0.tif_Fmp.tif                                     	- Wed Jun 10 15:58:31 EDT 2015
+support.Support                     - added calculation: Phi2 IMGS_17_cam_0.tif_Fs.tif, IMGS_17_cam_0.tif_Fmp.tif                                     	- Wed Jun 10 15:58:31 EDT 2015
+support.Support                     - added calculation: Phi2 IMGS_19_cam_0.tif_Fs.tif, IMGS_19_cam_0.tif_Fmp.tif                                     	- Wed Jun 10 15:58:31 EDT 2015
+LOGGER ::: backed up log contents to the file "log"support.Support                     - added calculation: Phi2 IMGS_21_cam_0.tif_Fs.tif, IMGS_21_cam_0.tif_Fmp.tif                                     	- Wed Jun 10 15:58:31 EDT 2015
+support.Support                     - added calculation: Phi2 IMGS_23_cam_0.tif_Fs.tif, IMGS_23_cam_0.tif_Fmp.tif                                     	- Wed Jun 10 15:58:31 EDT 2015
+support.Support                     - added calculation: Phi2 IMGS_25_cam_0.tif_Fs.tif, IMGS_25_cam_0.tif_Fmp.tif                                     	- Wed Jun 10 15:58:31 EDT 2015
+support.Support                     - added calculation: Phi2 IMGS_27_cam_0.tif_Fs.tif, IMGS_27_cam_0.tif_Fmp.tif                                     	- Wed Jun 10 15:58:31 EDT 2015
+support.Support                     - added calculation: Phi2 IMGS_29_cam_0.tif_Fs.tif, IMGS_29_cam_0.tif_Fmp.tif                                     	- Wed Jun 10 15:58:31 EDT 2015
+support.Support                     - added calculation: Phi2 IMGS_31_cam_0.tif_Fs.tif, IMGS_31_cam_0.tif_Fmp.tif                                     	- Wed Jun 10 15:58:31 EDT 2015
+support.Support                     - added calculation: Phi2 IMGS_33_cam_0.tif_Fs.tif, IMGS_33_cam_0.tif_Fmp.tif                                     	- Wed Jun 10 15:58:31 EDT 2015
+support.LocalIO                     - Exception occured while saving serialized support object...                                                     	- Wed Jun 10 15:58:41 EDT 2015
+support.LocalIO                     - 	support.Document                                                                                               	- Wed Jun 10 15:58:41 EDT 2015
+support.Support                     - generated completed XML "/Users/Sam/Downloads/src"                                                              	- Wed Jun 10 15:58:41 EDT 2015
+LOGGER ::: backed up log contents to the file "log"
+support.inlogic.InLogic             - found a total of 33 references to .tif images in dom object                                                     	- Fri Jun 12 16:21:57 EDT 2015
+support.inlogic.InLogic             - 	1 of type F0Fm,                                                                                                	- Fri Jun 12 16:21:57 EDT 2015
+support.inlogic.InLogic             - 	16 of type Fmpp, and                                                                                           	- Fri Jun 12 16:21:57 EDT 2015
+support.inlogic.InLogic             - 	16 of type FsFmp                                                                                               	- Fri Jun 12 16:21:57 EDT 2015
+support.inlogic.InLogic             - retrieved a total of 32 real environment factors from dom object                                                	- Fri Jun 12 16:21:57 EDT 2015
+support.inlogic.InLogic             - 	0 pertaining to humidity,                                                                                      	- Fri Jun 12 16:21:57 EDT 2015
+support.inlogic.InLogic             - 	32 pertaining to light intensity, and                                                                          	- Fri Jun 12 16:21:57 EDT 2015
+support.inlogic.InLogic             - 	0 pertaining to temperature                                                                                    	- Fri Jun 12 16:21:57 EDT 2015
+support.inlogic.InLogic             - failed to retrieve any designed environment factors from the dom                                                	- Fri Jun 12 16:21:57 EDT 2015
+support.inlogic.InLogic             - unsuccessful when parsing analysis node using old conventions, using new conventions...                         	- Fri Jun 12 16:21:57 EDT 2015
+LOGGER ::: backed up log contents to the file "log"
+support.inlogic.InLogic             - found a total of 33 references to .tif images in dom object                                                     	- Fri Jun 12 16:23:02 EDT 2015
+support.inlogic.InLogic             - 	1 of type F0Fm,                                                                                                	- Fri Jun 12 16:23:02 EDT 2015
+support.inlogic.InLogic             - 	16 of type Fmpp, and                                                                                           	- Fri Jun 12 16:23:02 EDT 2015
+support.inlogic.InLogic             - 	16 of type FsFmp                                                                                               	- Fri Jun 12 16:23:02 EDT 2015
+support.inlogic.InLogic             - retrieved a total of 32 real environment factors from dom object                                                	- Fri Jun 12 16:23:02 EDT 2015
+support.inlogic.InLogic             - 	0 pertaining to humidity,                                                                                      	- Fri Jun 12 16:23:02 EDT 2015
+support.inlogic.InLogic             - 	32 pertaining to light intensity, and                                                                          	- Fri Jun 12 16:23:02 EDT 2015
+support.inlogic.InLogic             - 	0 pertaining to temperature                                                                                    	- Fri Jun 12 16:23:02 EDT 2015
+support.inlogic.InLogic             - failed to retrieve any designed environment factors from the dom                                                	- Fri Jun 12 16:23:02 EDT 2015
+support.inlogic.InLogic             - unsuccessful when parsing analysis node using old conventions, using new conventions...                         	- Fri Jun 12 16:23:02 EDT 2015
+LOGGER ::: backed up log contents to the file "log"
+support.inlogic.InLogic             - found a total of 33 references to .tif images in dom object                                                     	- Fri Jun 12 16:23:29 EDT 2015
+support.inlogic.InLogic             - 	1 of type F0Fm,                                                                                                	- Fri Jun 12 16:23:29 EDT 2015
+support.inlogic.InLogic             - 	16 of type Fmpp, and                                                                                           	- Fri Jun 12 16:23:29 EDT 2015
+support.inlogic.InLogic             - 	16 of type FsFmp                                                                                               	- Fri Jun 12 16:23:29 EDT 2015
+support.inlogic.InLogic             - retrieved a total of 32 real environment factors from dom object                                                	- Fri Jun 12 16:23:29 EDT 2015
+support.inlogic.InLogic             - 	0 pertaining to humidity,                                                                                      	- Fri Jun 12 16:23:29 EDT 2015
+support.inlogic.InLogic             - 	32 pertaining to light intensity, and                                                                          	- Fri Jun 12 16:23:29 EDT 2015
+support.inlogic.InLogic             - 	0 pertaining to temperature                                                                                    	- Fri Jun 12 16:23:29 EDT 2015
+support.inlogic.InLogic             - failed to retrieve any designed environment factors from the dom                                                	- Fri Jun 12 16:23:29 EDT 2015
+support.inlogic.InLogic             - unsuccessful when parsing analysis node using old conventions, using new conventions...                         	- Fri Jun 12 16:23:29 EDT 2015
+LOGGER ::: backed up log contents to the file "log"

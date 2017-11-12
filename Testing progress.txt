@@ -1,0 +1,23 @@
+[BASE FUNCTIONS]
+Reading and writing tiff stacks						[]
+Reading and writing selection files					[]
+Reading and writing threshold files					[]
+Reading and writing analysis files					[]
+Writing photosynthesis values correctly				[]
+
+[IMAGE FUNCTIONS]
+Applying correct threshold							[]
+Slicing tiff stacks correctly						[]
+
+[MEASUREMENT FUNCTIONS]
+Reading correct files for each measurement			[]
+Using correct tiff subset for each measurement		[]
+Using the correct pixels for each selection			[]
+
+[PHOTOSYNTHESIS VALUES]
+Correct NPQ											[]
+Correct qE											[]
+Correct qI											[]
+Correct Phi2										[]
+Correct QEsv										[]
+Correct fVfM										[]
